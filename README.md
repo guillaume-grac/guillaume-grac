@@ -4,8 +4,8 @@ Hi 👋 My name is Guillaume Grac
 Web developer
 -------------
 
-* 🌍  I'm based in Salon-de-Provence
-* 🖥️  See my portfolio at [https://guillaume-grac.students-laplateforme.io/](http://https://guillaume-grac.students-laplateforme.io/)
+* 🌍  I'm based in Salon-de-Provence, South of France 🥖
+* 🖥️  See my portfolio at [https://guillaume-grac.students-laplateforme.io/](http://https://guillaume-grac.students-laplateforme.io/)
 * ✉️  You can contact me at [guillaume.grac@laplateforme.io](mailto:guillaume.grac@laplateforme.io)
 * 🧠  I'm learning Front-end framework's !
 * ⚡  I love doing the front and design part of the sites !
