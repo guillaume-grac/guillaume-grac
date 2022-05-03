@@ -8,7 +8,7 @@ Web developer
 * 🖥️  See my portfolio at [https://guillaume-grac.students-laplateforme.io/](http://https://guillaume-grac.students-laplateforme.io/)
 * ✉️  You can contact me at [guillaume.grac@laplateforme.io](mailto:guillaume.grac@laplateforme.io)
 * 🧠  I'm learning Front-end framework's and CMS WordPress !
-* ⚡  I love doing the front and design part of the sites !
+* ⚡  I love the front and design part of the sites !
 
 ### Skills
 
